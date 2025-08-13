@@ -69,7 +69,7 @@ The app follows the Model-Controller-Presenter (MCP) pattern:
 
 ## Screenshots
 
-TODO: Add screenshots of the app
+![Image](https://github.com/user-attachments/assets/84c78910-68ce-4695-a588-b7efdbf7d6ab)
 
 ## Known Issues
 
